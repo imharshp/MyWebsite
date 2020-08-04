@@ -83,15 +83,10 @@ hr {
   margin-bottom: 30px;
 }
 
-.skill-row {
-  width: 50%;
-  margin: 100px auto;
-  padding: 15px;
+.skill-table{
+  margin: 50px auto;
 }
 
-.skill-table{
-  margin: 100px auto;
-}
 
 .contact-me{
   margin: 100px auto;
@@ -108,3 +103,4 @@ hr {
   font-size: 0.5rem;
   margin: 20px auto;
 }
+
