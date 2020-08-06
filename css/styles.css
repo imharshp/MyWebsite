@@ -75,8 +75,11 @@ hr {
   right: 30%;
 }
 
-.profile {
+.profile{
   margin: 100px auto;
+  width: 500px;
+  text-align: left;
+
 }
 
 .mountain {
@@ -85,6 +88,10 @@ hr {
 
 .skill-table{
   margin: 50px auto;
+}
+
+.skills{
+  margin: 100px auto;
 }
 
 
@@ -99,11 +106,21 @@ hr {
   font-family: 'Montserrat', sans-serif;
 }
 
+.skill-pic{
+  height: 200px;
+}
+
+.myphoto{
+  float: left;
+  margin-right: 30px;
+
+}
+
 .copyright{
   font-size: 0.5rem;
   margin: 20px auto;
 }
 .credit{
-  fontsize: 0.5rem;
+  font-size: 0.5rem;
 
 }
